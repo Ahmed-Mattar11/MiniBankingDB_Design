@@ -79,4 +79,4 @@ This rule is enforced at the database level with a `CHECK` constraint, so invali
 
 ## Schema
 
-![Database Schema](DatabaseSchema.png)
+![Database Schema](MiniBankingDB_Schema.png)
